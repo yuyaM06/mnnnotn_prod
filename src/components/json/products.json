@@ -1,0 +1,21 @@
+{
+  "product": "手巻おにぎり サーモンわさびマヨネーズ",
+  "keywords": ["おにぎり", "鮭"],
+
+  "category": "おにぎり",
+  "description": "人気具材のサーモンに相性の良いわさびを組み合わせた手巻おにぎりです。",
+  "figURL": "https://img.7api-01.dp1.sej.co.jp/item-image/043267/568D9BCE784CF3369F5C95A953342634.jpg",
+  "release": "2021年10月12日",
+  "region": ["北海道", "埼玉県", "千葉県", "東京都", "神奈川県"],
+
+  "calory": 192,
+  "protein": 4,
+  "lipid": 3.7,
+  "carbonhydrates": 36.6,
+  "sugar": 34.7,
+  "fiber": 1.9,
+  "scequiv": 0.97,
+
+  "allergy": ["卵","小麦"],
+  "price": 129.6
+}
